@@ -2,4 +2,4 @@
 - Methodology: Finite volume method is used with first order upwind scheme for convective flux discretization and Central differencing scheme for diffusive flux discretization.
 - Implementation: Standalone python code is provided. The code is self-contained and includes everything required for execution,
 - with no separate parameter files or solver files needed.
-- Results: 3 plots are provided one representing the numerical solution with diffusion present , one without (to identify false diffusion) , one for high velocity profile. From the experiment we conclude the presence of false diffusion with the Upwind scheme.
+- Results: 3 plots are provided ,one representing the numerical solution with diffusion present , one without (to identify false diffusion) , one for high velocity profile. From the experiment we conclude the presence of false diffusion with the Upwind scheme.
